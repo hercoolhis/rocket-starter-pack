@@ -1,6 +1,6 @@
 
 const getAllUsers = (req, res) => {
-    res.send("These are all the users");
+    res.send("These are all the users in the db");
 }
 
 
